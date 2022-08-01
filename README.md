@@ -15,7 +15,7 @@
 - Like or Dislike system
 - JWT Token verification
 - Create your post and make your comments
-- Dark Mode included 
+- Dark Mode included (using Global State)
 - Pagination using a scroll system (just like Reddit)
 - Mobile First Application
 
